@@ -14,8 +14,8 @@ const ProfilePanel: React.FC = () => {
           alt="Avatar"
           className="profile-picture"
         />
-        <h1>Guilherme Rodz</h1>
-        <h2>Software Engineer @ Rocketseat</h2>
+        <h1>Pierre Souza</h1>
+        <h2>Analista de sistemas I @LionX</h2>
 
         <div className="separator"></div>
 
